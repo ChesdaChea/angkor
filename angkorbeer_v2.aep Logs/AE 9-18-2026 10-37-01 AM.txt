@@ -1,0 +1,17 @@
+Adobe After Effects v24.1 Windows 64 render log for project “angkorbeer_v2.aep”
+
+Rendering started on 9/18/2026 at 10:37:01 AM
+
+  9/18/2026 10:37:01 AM: Starting composition “Comp 3”.
+
+  Output To: D:\MSA-work\angkorbeer\underlay\v1\Comp 3.mp4    9/18/2026 10:37:03 AM: Finished composition “Comp 3”.
+
+
+  9/18/2026 10:37:03 AM: Starting composition “Comp 3”.
+
+  Output To: D:\MSA-work\angkorbeer\underlay\v2\Comp 3_1.mp4    9/18/2026 10:37:05 AM: Finished composition “Comp 3”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 9/18/2026 at 10:37:05 AM
+
